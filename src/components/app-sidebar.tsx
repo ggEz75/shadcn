@@ -59,15 +59,15 @@ const data = {
       items: [
         {
           title: "Perfiles",
-          url: "/perfiles",
+          url: "/dashboard/perfiles",
         },
         {
-          title: "Panel de control",
-          url: "/panel de control",
+          title: "Panel-de-control",
+          url: "/dashboard/panel-de-control",
         },
         {
           title: "Settings",
-          url: "#",
+          url: "/dashboard/settings",
         },
       ],
     },
